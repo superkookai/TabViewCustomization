@@ -11,7 +11,8 @@ import SwiftUI
 struct TabViewCustomizationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            TabViewCust03()
         }
     }
 }
